@@ -1,6 +1,6 @@
 ## Card data evaluation
 
-![costs!](src/card.gif)
+![card!](src/card.gif)
 
 
 ### Simple use
